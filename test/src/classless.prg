@@ -1,0 +1,7 @@
+FUNCTION GoDay
+
+	LPARAMETERS dDate
+
+	RETURN M.dDate + 1
+
+ENDFUNC
